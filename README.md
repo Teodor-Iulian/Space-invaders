@@ -1,5 +1,5 @@
 # References
-• Video that helped me with the interface (https://www.google.com/search?q=python+main+menu+interface&oq=python+main+menu+interface&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDUzMjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:0b2212ca,vid:GMBqjxcKogA,st:0)
+• Video where i got the interface from (https://www.google.com/search?q=python+main+menu+interface&oq=python+main+menu+interface&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDUzMjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:0b2212ca,vid:GMBqjxcKogA,st:0)
 <br>
 • The original code for the game (https://www.geeksforgeeks.org/building-space-invaders-using-pygame-python/) 
 <br>
